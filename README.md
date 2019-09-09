@@ -1,2 +1,3 @@
 # Relay-Carries-Board-DIN
-Relay carrier board 3d printer files for DIN rain mounting
+3D printable DIN rain mount for the Relay Shield Carrier Boad by Superhouse Automation.
+https://www.superhouse.tv/product/relay-shield-carrier-x4/
