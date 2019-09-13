@@ -5,4 +5,4 @@ https://www.superhouse.tv/product/relay-shield-carrier-x4/
 
 ## Version 2 
 redesigned bracket to house nuts, 
-** note : nuts need to be press fitted.
+
